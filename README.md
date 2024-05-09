@@ -7,3 +7,4 @@ Real Estate App using MERN and TailwindCSS
 # create and run the server
 #  connect to the Database
 # create user model
+# create a test api route
