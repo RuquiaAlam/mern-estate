@@ -1,8 +1,7 @@
 Real Estate App using MERN and TailwindCSS
--npm create vite@latest client
--npm install
--create pages and routes
--create header component
--npm i react-icons
--create and run the server
--
+# npm create vite@latest client
+# npm install
+# create pages and routes
+# create header component
+# npm i react-icons
+# create and run the server
