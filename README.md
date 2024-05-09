@@ -4,3 +4,5 @@ Real Estate App using MERN and TailwindCSS
 -create pages and routes
 -create header component
 -npm i react-icons
+-create and run the server
+-
