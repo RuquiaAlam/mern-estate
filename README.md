@@ -12,4 +12,6 @@ Real Estate App using MERN and TailwindCSS
 # complete signup page functionality
 # complete signin page functionality
 # add  redux toolkit
+# add redux persist
+npm install --save-dev @types/react-redux
 
