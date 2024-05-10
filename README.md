@@ -8,3 +8,8 @@ Real Estate App using MERN and TailwindCSS
 #  connect to the Database
 # create user model
 # create a test api route
+# create a middleware and a function to handle possible error
+# complete signup page functionality
+# complete signin page functionality
+# add  redux toolkit
+
