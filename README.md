@@ -15,6 +15,9 @@ Real Estate App using MERN and TailwindCSS
 # add redux persist
 npm install --save-dev @types/react-redux
 # add firebase to app
+# create and update OAuth Component
+# Update the header and make the profile page private
+
 
 #   apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
 
