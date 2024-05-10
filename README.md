@@ -14,4 +14,8 @@ Real Estate App using MERN and TailwindCSS
 # add  redux toolkit
 # add redux persist
 npm install --save-dev @types/react-redux
+# add firebase to app
+
+#   apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
+
 
