@@ -17,8 +17,16 @@ npm install --save-dev @types/react-redux
 # add firebase to app
 # create and update OAuth Component
 # Update the header and make the profile page private
-
-
+# create profile page UI
+# complete image upload functionality
 #   apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
+# firebase rules
+#     
+      - allow read
+      -allow write:if 
+      -request.resource.size < 2*1024*1024 &&
+      -request.resource.contentType.matches('image/.*');
+      
+
 
 
